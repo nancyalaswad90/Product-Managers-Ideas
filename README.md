@@ -1,1 +1,6 @@
-# Product-Managers-Ideas
+.
+
+
+# Product Managers Ideas
+
+.
