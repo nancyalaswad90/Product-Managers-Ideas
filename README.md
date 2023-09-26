@@ -88,7 +88,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 > #  Pitch a Product Vision:
 
 .
-> ## Main resource: For example: please don't use it identically so you do not fail in `similarities and plagiarism` **problems.**
+> ## Main resource: 
 > 
 
 - [The Airbnb Pitch Deck ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
@@ -97,6 +97,12 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 - [Product Pitch Presentation Template](https://www.slideteam.net/product-pitch-powerpoint-presentation-slides.html)
 
 .
+
+> ### Please take a look at them for example and don't use them identically so you do not fail in similarities and plagiarism problems.
+
+
+.
+
 
 > # 1 ). Initial Focus
 
