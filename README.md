@@ -1002,10 +1002,48 @@ When presenting a 10-minute overview of the product opportunity to an executive 
 .
 
 
+> # Prepare your Project
 
+
+============================
+
+.
+
+## [Option 1: Kaiser Permanente ](https://g.co/kgs/S1MMyk)
+
+.
+
+
+> ### [In linkedin Be essential](https://www.linkedin.com/company/kaiser-permanente/)
+
+
+We are relentless in our pursuit of excellence. Founded nearly 80 years ago, our unique business model sets us apart — positioning us to drive improvements across the industry and around the world. **[k-p.li/aboutKP](https://about.kaiserpermanente.org/)**
+
+As the nation’s leading not-for-profit health plan, we proudly serve 12.7 million members from 600+ locations in 8 states and Washington, D.C. Together, our 200,000+ employees and physicians work as one to positively impact the lives of our members, employees, and communities.
+
+Come drive quality, inspire excellence, and create change for the better. Bring your talents to Kaiser Permanente, and see your visionary ideas make a difference in the lives of others. This is your opportunity to shape the future of health care.
 
 
 .
+
+
+### For example, if you’re researching use case 1, look up:
+
+* Preventable diseases
+* Kaiser Permanente subscriber base
+* Kaiser Permanente revenues
+* Fitness applications
+* Health care
+
+
+## [Option 2: Doordash]()
+
+
+## [Option 3: Amazon]()
+
+
+## [Option 4: LinkedIn ]()
+
 
 
 
