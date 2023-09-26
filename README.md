@@ -2,7 +2,7 @@
 .
 
 
-# Product Managers Ideas
+# Product Managers Ideas 
 
 
 .
@@ -88,7 +88,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 > #  Pitch a Product Vision:
 
 .
-> ## Main resource :
+> ## Main resource: For example: please don't use it identically so you do not fail in `similarities and plagiarism` **problems.**
 > 
 
 - [The Airbnb Pitch Deck ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
