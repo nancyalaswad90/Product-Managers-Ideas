@@ -20,7 +20,21 @@
 
 .
 
-> ## what the goal for each project here
+
+> ## What is the goal of the whole program?
+
+===================================================
+
+The goal of the Product Manager Nanodegree program is to equip you with the skills and knowledge needed to become a successful product manager. Throughout the program, you will learn how to identify market opportunities, define product visions, conduct user research, create product roadmaps, and collaborate with cross-functional teams to bring products to market. By the end of the program, you should have a solid understanding of the product management process and be ready to apply your skills in real-world scenarios. Is there anything specific you would like to know about the program?
+
+.
+
+الهدف من برنامج Nanodegree لمدير المنتج هو تزويدك بالمهارات والمعرفة اللازمة لتصبح مدير منتج ناجحًا. خلال البرنامج، سوف تتعلم كيفية تحديد فرص السوق، وتحديد رؤى المنتج، وإجراء أبحاث المستخدم، وإنشاء خرائط طريق المنتج، والتعاون مع فرق متعددة الوظائف لجلب المنتجات إلى السوق. بحلول نهاية البرنامج، يجب أن يكون لديك فهم قوي لعملية إدارة المنتج وأن تكون مستعدًا لتطبيق مهاراتك في سيناريوهات العالم الحقيقي. هل هناك أي شيء محدد تريد معرفته عن البرنامج؟
+
+
+.
+
+> ## What the goal for each project here
 > 
 
 
