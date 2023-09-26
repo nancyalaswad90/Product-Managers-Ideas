@@ -790,7 +790,7 @@ The roadmap should be detailed. It’s easy to attach themes to a roadmap, such 
 
     .
     
-    > ## [Sample Product Roadmap Template](https://www.smartsheet.com/product-roadmap-templates)
+    > ## [[Sample Product Roadmap Template](https://www.smartsheet.com/product-roadmap-templates)](https://www.smartsheet.com/content/project-roadmap-templates)
 
     .
     
