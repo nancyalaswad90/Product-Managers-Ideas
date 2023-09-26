@@ -178,6 +178,8 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 
 
 
+.
+
 
 -  **مستوى السكر في الدم (Blood Glucose Level)**:
 .
@@ -191,6 +193,23 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 يتم قياس ضغط الدم لمراقبة مخاطر مرتبطة بارتفاع ضغط الدم الذي قد يصاحب مرض السكري.
 
 .
+
+ 
+
+-   **مستوى الكولسترول (Cholesterol Levels)**:
+.
+ 
+ يتم قياس مستويات الكوليسترول في الدم لتقييم مخاطر أمراض القلب والأوعية الدموية المرتبطة بمرض السكري.
+
+.
+ 
+
+-   **وظائف الكلى (Kidney Function)**:
+.
+  تشمل فحوصات لمعدل التصفية الكلوية ومستويات الكرياتينين لتقييم صحة الكلى لدى مرضى السكري.
+
+.
+
 
 
 > # 2 ). Opportunity
