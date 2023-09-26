@@ -85,7 +85,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 .
 
 
-> #  Pitch a Product Vision:
+> #  [Pitch a Product Vision:](https://docs.google.com/presentation/d/1gjY8ULy86i4TRp1OaMisMXfRtn6KBH2qHIce9USdeBQ/edit#slide=id.g61bdf1f55e_0_0)
 
 .
 > ## Main resource: 
