@@ -86,10 +86,15 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 
 
 > #  Pitch a Product Vision:
->
-> ## Main resource : [The Airbnb Pitch Deck ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
 
+.
+> ## Main resource :
+> 
 
+- [The Airbnb Pitch Deck ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
+  
+
+- [Product Pitch Presentation Template](https://www.slideteam.net/product-pitch-powerpoint-presentation-slides.html)
 
 .
 
@@ -226,3 +231,12 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 =====================================================================
 
 .
+Calculate the total addressable market (TAM) for your product:
+
+Give details on how big or small this problem is from a market perspective. You need to Quantify the size of the opportunity. It can't be as all-encompassing as "the market for diabetes treatment is $300B".
+
+You need to provide at least two stats from your research to support your claim. The total Addressable market is one; others could be competitor revenue, market saturation, market population, or others.
+
+TAM (Total Addressable Market) should usually be counted in billions. The market opportunity needs to be smaller and more realistic. TAM should be measured in billions, but the initial focus area should be measured in tens of millions at most.
+
+You should use links and sources where possible. This doesn't need to be comprehensively footnoted, but quotes and numbers are always more believable when the source is mentioned.
