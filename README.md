@@ -559,7 +559,13 @@ By following these steps and providing accurate and supported information, you c
 
 .
 
-## For example  success metrics and total addressable market `(TAM)` calculations.
+.
+
+
+### For example  success metrics and total addressable market `(TAM)` calculations.
+
+
+==============================
 
 
 **Total Addressable Market (TAM):**  To calculate the TAM for your fitness tracking app, you would need to consider the potential market size. Let's say you focus on the `United States` market.
@@ -567,15 +573,28 @@ By following these steps and providing accurate and supported information, you c
 
 ### Here are two stats to support your TAM calculation:
 
+.
+
 - According to a market research report, the fitness app market in the United States is estimated to be worth $2.4 billion.
+  
 
 - Additionally, you find that there are approximately 100 million smartphone users in the United States.
   
+
 - Based on these stats, you can estimate your TAM by considering the percentage of smartphone users who might be interested in using a fitness-tracking app.
+
 
 - Let's assume that 30% of smartphone users would be interested.
 
-> ** Therefore, your estimated TAM would be: TAM = $2.4 billion * 0.3 = $720 million.**
+
+.
+
+     > **Therefore, your estimated TAM would be: TAM = $2.4 billion * 0.3 = $720 million.**
+
+
+
+.
+
 
 ================================================
 
