@@ -98,7 +98,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 
 .
 
-> ### Please take a look at them for example and don't use them identically so you do not fail in similarities and plagiarism problems.
+> ### Please take a look at them for example and don't use them identically so `you do not fail ` in **similarities and plagiarism problems.**
 
 
 .
