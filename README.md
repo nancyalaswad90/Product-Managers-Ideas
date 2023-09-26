@@ -9,7 +9,7 @@
 
 
 
-> ### [Ideas from a Product Manager: You can find them in the link to my kaggle profile](https://www.kaggle.com/code/nancyalaswad90/product-managers-ideas)
+> ### [Ideas from a Product Manager: You can find them in the link to my Kaggle profile](https://www.kaggle.com/code/nancyalaswad90/product-managers-ideas)
 
 
 .
@@ -55,7 +55,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 -  تقديم رؤية المنتج: Pitch a Product Vision
 .
  
- هدف هذا المشروع هو تطوير رؤية منتج مقنعة وحالة أعمال، بما في ذلك تحديد مشكلة تحتاج إلى حلها، وتقدير فرص السوق، وتحديد حالات استخدام المنتج والمستخدمين المستهدفين، وحساب التكلفة وعائد الاستثمار، وتحديد مقاييس النجاح.
+ هدف هذا المشروع هو تطوير رؤية منتج مقنعة وحالة أعمال، بما في ذلك تحديد مشكلة تحتاج إلى حلها، وتقدير فرص السوق، وتحديد حالات استخدام المنتج والمستخدمين المستهدفين، وحساب التكلفة وعائد الاستثمار، وتحديد مقاييس النجاح  على سبيل المثال : .[The Airbnb Pitch Deck ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
  
 
 -   تنفيذ تصميم سبرينت: Run a Design Sprint
@@ -120,7 +120,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 .
 
 
-> ## [The Airbnb Pitch Deck ][Pitch deck design services for startups looking to scale ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
+> ## [The Airbnb Pitch Deck ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
 
 
 
