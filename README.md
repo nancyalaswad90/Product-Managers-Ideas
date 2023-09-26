@@ -85,6 +85,32 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 .
 
 
+
+
+> ## [The Airbnb Pitch Deck ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
+
+
+
+.
+
+> # 1 ). Initial Focus
+
+### Identify problems to solve by creating a compelling story using evidence and metrics:
+
+============================================================================================
+
+.
+
+
+## [For example,](https://learn.udacity.com/nanodegrees/nd036/parts/cd0020/lessons/ls12618/concepts/d7d7b628-fcba-4f6e-96a6-5bc55dc6bfd9) in our sample project, we articulate the pain of "we are wasting 33 million a year in health care costs on diabetes care that could be saved". That's pain, and someone might be interested in solving it.
+
+
+.
+على سبيل المثال، في مشروعنا النموذجي، نعبّر عن الألم الذي نشعر به عندما نقول ` "نحن نهدر 33 مليون دولار سنويًا في تكاليف الرعاية الصحية لمرض السكري يمكن توفيرها". هذا هو الألم، وقد يكون شخص ما مهتمًا بحل هذه المشكلة.`
+
+ببساطة، يتعلق الأمر بتسليط الضوء على المشكلة أو الألم الحالي، والذي في هذا السياق هو هدر الأموال الضخم في تكاليف الرعاية الصحية بسبب مرض السكري. هذا الألم يمكن أن يكون دافعًا لأي شخص يرغب في البحث عن حلاً لهذه المشكلة وتوفير تلك الأموال.
+
+
 .
 
 > ## For Elm Saudi Arabia students  :
@@ -122,32 +148,6 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 لذا، العلامات قد تكون واضحة من خلال الفحص الجسدي، ولكن في بعض الأحيان يلزم اللجوء إلى فحوصات طبية إضافية للتحقق من التشخيص بشكل دقيق
 
 .
-
-
-> ## [The Airbnb Pitch Deck ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
-
-
-
-.
-
-> # 1 ). Initial Focus
-
-### Identify problems to solve by creating a compelling story using evidence and metrics:
-
-============================================================================================
-
-.
-
-
-## [For example,](https://learn.udacity.com/nanodegrees/nd036/parts/cd0020/lessons/ls12618/concepts/d7d7b628-fcba-4f6e-96a6-5bc55dc6bfd9) in our sample project, we articulate the pain of "we are wasting 33 million a year in health care costs on diabetes care that could be saved". That's pain, and someone might be interested in solving it.
-
-
-.
-على سبيل المثال، في مشروعنا النموذجي، نعبّر عن الألم الذي نشعر به عندما نقول ` "نحن نهدر 33 مليون دولار سنويًا في تكاليف الرعاية الصحية لمرض السكري يمكن توفيرها". هذا هو الألم، وقد يكون شخص ما مهتمًا بحل هذه المشكلة.`
-
-ببساطة، يتعلق الأمر بتسليط الضوء على المشكلة أو الألم الحالي، والذي في هذا السياق هو هدر الأموال الضخم في تكاليف الرعاية الصحية بسبب مرض السكري. هذا الألم يمكن أن يكون دافعًا لأي شخص يرغب في البحث عن حلاً لهذه المشكلة وتوفير تلك الأموال.
-
-
 
 
 .
