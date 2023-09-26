@@ -34,7 +34,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 
 .
 
-> ## What the goal for each project here
+> ## What is the goal for each project here
 > 
 
 
@@ -119,6 +119,12 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 
 .
 
+
+> ## [The Airbnb Pitch Deck ][Pitch deck design services for startups looking to scale ](https://checkout.slidebean.com/community?utm_source=youtube&utm_medium=comment&utm_campaign=airbnbpitch)
+
+
+
+.
 
 > # 1 ). Initial Focus
 
