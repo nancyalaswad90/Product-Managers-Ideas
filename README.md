@@ -88,6 +88,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 > #  [Pitch a Product Vision: Project Instructions](https://learn.udacity.com/nanodegrees/nd036/parts/cd0020/lessons/ls12618/concepts/d7d7b628-fcba-4f6e-96a6-5bc55dc6bfd9)
 
 .
+
 > ## Main resource: 
 > 
 
@@ -441,7 +442,56 @@ By following these steps and providing accurate and supported information, you c
 .
 في هذا المثال، الROI هو سالب، مما يشير إلى أن المشروع لا يولد عائد استثمار إيجابي. هذا يعني أن تكلفة المشروع تتجاوز الإيراد أو التوفير في التكلفة الذي ينتجه.
 
+
+
+
 .
+
+
+.
+
+
+
+> # 5 ). Measurement
+ 
+===================
+
+
+
+## Define success metrics:
+​
+
+
+
+> **Success metrics are important as they help you track the progress and impact of your product.**
+
+
+.
+
+###  Here are some steps to help you define specific success metrics and KPIs:
+
+.
+
+- **Identify your product goals:** Start by clarifying the goals you want to achieve with your product. For example, if your product is a mobile app for a fitness tracking service, your goals might include increasing user engagement, improving user retention, and driving revenue.
+
+- **Break down your goals into measurable objectives:** Once you have your goals, break them down into specific objectives that can be measured. For example, if one of your goals is to increase user engagement, your objective could be to increase the average daily active users (DAU) by 20% within the first year.
+
+- **Determine the key performance indicators (KPIs):** KPIs are specific metrics that help you measure the progress towards your objectives. In the example above, the KPI would be the percentage increase in DAU. Other KPIs could include user retention rate, conversion rate, revenue growth, or customer satisfaction score.
+
+- **Set specific targets for each KPI:** Once you have identified the KPIs, set specific targets or benchmarks that you want to achieve within the first year. For example, you might aim for a 20% increase in DAU, a 15% improvement in user retention rate, or a 10% increase in revenue.
+
+- **Choose the right measurement tools:** Identify the tools or methods you will use to measure the KPIs. This could include analytics platforms, surveys, user feedback, or financial reports. Make sure you have the necessary data collection mechanisms in place to track the metrics accurately.
+
+- **Regularly monitor and analyze the metrics:** Continuously monitor and analyze the metrics to track your progress and identify areas for improvement. Regularly review the data and make data-driven decisions to optimize your product strategy.
+
+.
+
+> **Remember, the specific success metrics and KPIs will depend on your product and business goals.** It's important to choose metrics that align with your overall strategy and provide meaningful insights into the performance of your product.
+
+
+
+.
+
 
 .
 
