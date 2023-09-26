@@ -786,11 +786,11 @@ The roadmap should be detailed. It’s easy to attach themes to a roadmap, such 
 .
 
 
-### Here is a link to a sample product roadmap template that you can use as a starting point:
+### Here is a link to a `Sample Product Roadmap Template`  that you can use as a starting point:
 
     .
     
-    > ## [[Sample Product Roadmap Template](https://www.smartsheet.com/product-roadmap-templates)](https://www.smartsheet.com/content/project-roadmap-templates)
+    > ##  https://www.smartsheet.com/content/project-roadmap-templates
 
     .
     
