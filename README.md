@@ -85,7 +85,7 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 .
 
 
-> #  [Pitch a Product Vision:](https://docs.google.com/presentation/d/1gjY8ULy86i4TRp1OaMisMXfRtn6KBH2qHIce9USdeBQ/edit#slide=id.g61bdf1f55e_0_0)
+> #  [Pitch a Product Vision: Project Instructions](https://learn.udacity.com/nanodegrees/nd036/parts/cd0020/lessons/ls12618/concepts/d7d7b628-fcba-4f6e-96a6-5bc55dc6bfd9)
 
 .
 > ## Main resource: 
@@ -440,6 +440,19 @@ By following these steps and providing accurate and supported information, you c
 
 .
 في هذا المثال، الROI هو سالب، مما يشير إلى أن المشروع لا يولد عائد استثمار إيجابي. هذا يعني أن تكلفة المشروع تتجاوز الإيراد أو التوفير في التكلفة الذي ينتجه.
+
+.
+
+.
+
+================================================
+
+
+
+
+.
+
+> # [Project Rubric](https://www.kaggle.com/code/nancyalaswad90/product-managers-ideas)
 
 .
 
