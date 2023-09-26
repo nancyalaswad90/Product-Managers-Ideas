@@ -230,18 +230,13 @@ The goal of the Product Manager Nanodegree program is to equip you with the skil
 
 > # 2 ). Opportunity
  
+===================
+
 
 
 ### Calculate the total addressable market (TAM) for your product:
-
-=====================================================================
-
-.
-### Calculate the total addressable market (TAM) for your product:
 ​
-=====================================================================
-​
-.
+
 ​
  ### When calculating the Total Addressable Market (TAM) for your product, it's important to provide a realistic and quantifiable estimate of the market opportunity. Instead of providing a broad statement like **the market for diabetes treatment is $300B** you should focus on a more specific and targeted segment of the market.
 ​
