@@ -23,7 +23,9 @@
 > ## what the goal for each project here
 > 
 
-1. Pitch a Product Vision
+
+
+1 . Pitch a Product Vision
 
 2 . Run a Design Sprint
 
