@@ -29,6 +29,13 @@
 .
 
 
+> # Initial Focus
+
+### Identify problems to solve by creating a compelling story using evidence and metrics:
+
+============================================================================================
+.
+
 
 ## [For example,](https://learn.udacity.com/nanodegrees/nd036/parts/cd0020/lessons/ls12618/concepts/d7d7b628-fcba-4f6e-96a6-5bc55dc6bfd9) in our sample project, we articulate the pain of "we are wasting 33 million a year in health care costs on diabetes care that could be saved". That's pain, and someone might be interested in solving it.
 
