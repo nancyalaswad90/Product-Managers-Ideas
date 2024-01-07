@@ -1,7 +1,6 @@
 
 .
 
-
 > # Product Managers Ideas 
 
 
